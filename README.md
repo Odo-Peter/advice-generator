@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Odo Peter Github](https://github.com/Odo-Peter/advice-generator)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Odo Peter Vercel.app](https://advice-generator-tau-nine.vercel.app/)
 
 ## My process
 
